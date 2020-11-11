@@ -1,5 +1,10 @@
 # assignment1
 fall2020
+
+The programm is designed to find the smallest common denominator and add fractions in a correct way.
+For this purpose two functions will do the job.
+Furthermore the assignment should help us students to get familiar with the GitHub and GitKraken environment.
+
 Copyright [2020] [Christoph Oberhuber]
 
    Licensed under the Apache License, Version 2.0 (the "License");
