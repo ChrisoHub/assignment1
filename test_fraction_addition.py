@@ -9,8 +9,8 @@ from assignment1 import gcd
 from assignment1 import add_frac
 
 def test_gcd():
-    assert gcd(4,2) == 2
+    assert gcd(4,2) == 1
  
 def test_add_frac():
-    assert add_frac(1,4,2,8) == print("Das Ergebnis lautet: ", 1, "/", 2)
+    assert add_frac(1,4,2,8) == 'Das Ergebnis lautet: 1/2'
 
